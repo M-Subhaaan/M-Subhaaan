@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Muhammad Subhan <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyz/giphy.gif" width="35px" alt="waving hand"></h1>
+  <h1> Hi there, I'm Muhammad Subhan Ghafoor <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyz/giphy.gif" width="35px" alt="waving hand"></h1>
   <h3> Backend Developer | Node.js, Express & Cloud Architecture</h3>
   
   <p>
